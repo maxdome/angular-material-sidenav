@@ -1,3 +1,6 @@
+SchwaFa/angular-material-sidenav.git#0.0.14 not available any more - late fork
+
+
 # angular-material-sidenav
 
 Simple component that reproduce the Angular Material Style SideNav Menu from their own website [material.angularjs.org](https://material.angularjs.org/).
